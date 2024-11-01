@@ -1,0 +1,8 @@
+section.storefront-slideshow-section {
+    margin-top: -2em;
+    margin-bottom: 2em;
+    box-shadow: 0 0.5em 2em rgba(0,0,0,0.4);
+}
+section.storefront-slideshow-section h2 {
+    margin: 0.2em 0.5em;
+}
